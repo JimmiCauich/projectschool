@@ -63,13 +63,13 @@ li a:hover{
 	flex-direction: column;
 }
 .article a, #centradito a{
-	background: #54d154;
+	background: #00bc9c;
 	color: #fff;
 	text-align: center;
 	display: block;
 	width:205px;
 	height: 49px;
-	border-radius: 30px;
+
 	padding: 7px 0;
 	font-weight: normal;
 	font-size: 21px;
