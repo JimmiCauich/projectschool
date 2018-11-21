@@ -53,3 +53,12 @@ li a:hover{
 .mySlides{
 
 }
+#center-header{
+	height: 534px;
+}
+#centradito{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
