@@ -37,7 +37,7 @@ ul li{
 }
 li a{
 	color: #506a85;
-	font-size: 14px;
+		font-size:20px;
 	padding: 8px 6px;
 	display:block;
 	border-top: 5px solid transparent;
@@ -54,6 +54,13 @@ li a:hover{
 .mySlides{
 
 }
+
+.alineacion{
+	display: flex;
+	
+}
+
+
 #center-header{
 	height: 534px;
 }
@@ -75,4 +82,15 @@ li a:hover{
 	font-weight: normal;
 	font-size: 21px;
 	transition: 0.5s ease all;
+}
+
+.centrado{
+	display: flex;
+	justify-content: center;
+}
+
+.prueba{
+	    display: flex;
+    justify-content: center;
+    align-items: center;
 }
