@@ -94,3 +94,13 @@ li a:hover{
     justify-content: center;
     align-items: center;
 }
+
+.footer{
+	height: 700px;
+	background: #ffa;
+}
+
+.tamanio{
+	display: flex;
+	height: 366px;
+}
